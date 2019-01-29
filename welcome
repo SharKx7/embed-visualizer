@@ -1,0 +1,26 @@
+{
+  "embed": {
+     "color": 16098851,
+     "thumbnail": {
+      "url": "https://cdn.discordapp.com/attachments/482312687305490435/539884098714337300/Migthy_Gold_With_Name_Thin.png"
+    },
+    "image": {
+      "url": "https://cdn.discordapp.com/attachments/482312687305490435/539894549791768609/Mighty_Games.PNG"
+    }, 
+    "author": {
+      "name": "Mighty eSports",
+      "url": "https://mightyesports.ch",
+      "icon_url": "https://cdn.discordapp.com/attachments/482312687305490435/539884098714337300/Migthy_Gold_With_Name_Thin.png"
+    },
+    "fields": [
+      {
+        "name": "**__We welcome you to the Discordserver of Mighty eSports!__**",
+        "value": "The team, **Mighty eSports**, was founded by two people. After a short time, it was taken over by me, __Damian 'Shark' Franin__. The beginning of the acquisition was difficult because many changes had to take place. A short time later, a friend of mine, __Celine 'Chihiro_' Rauch__, joined the management team. So many things have been turned upside down in **Mighty eSports** and new things have been rethought. Now we have reached a point where we want to achieve many things. New sponsors, new logo as you can see, new members in the management team or as a member for a game. The team **Mighty eSports**, now consists more than 25 members which we all enjoy very much."
+      },
+      {
+        "name": "**__What we play__!**",
+        "value":"The various teams play in offline and online tournaments and they also take part in various leagues. The teams represent **Mighty eSports** in the games: League of Legends, Counter Strike Global Offensive, Overwatch, Rocketleague and Hearthstone. Planned are other teams in other games."
+      }
+    ]
+  }
+}
